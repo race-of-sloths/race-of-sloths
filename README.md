@@ -22,7 +22,7 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 
 5. Bot responds with a confirmation with additional info in details
 <p align="center">
-<img src="https://race-of-sloths.com/images/bot1.svg" alt="bot response to score image">
+<img src="https://race-of-sloths.com/images/bot4.svg" alt="bot response to score image">
 </p>
 
 6. After 24 hours from the merge, the bot finalizes the score and updates the <a href="https://race-of-sloths.com/leaderboard">leaderboard</a>
