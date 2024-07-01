@@ -5,7 +5,7 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 ### How it works
 
 1. Choose a repository from the supported [projects](https://race-of-sloths.com/projects)
-2. Contribute and tag @race-of-sloths on the pull request
+2. Contribute and tag [@race-of-sloths](https://github.com/race-of-sloths) on the pull request
 <p align="center">
 <img src="https://race-of-sloths.com/images/bot1.svg" alt="include image">
 </p>
