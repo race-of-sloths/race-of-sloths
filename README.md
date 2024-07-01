@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Sloths Bot and I want to share some details [about Race Of Sloths](https://race-of-sloths.com).
+I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](https://race-of-sloths.com).
 
 ### How it works
 
