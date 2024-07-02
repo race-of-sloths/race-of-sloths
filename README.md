@@ -10,7 +10,7 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 <img src="https://race-of-sloths.com/images/bot1.svg" alt="include image">
 </p>
 
-3. Bot responds with a confirmation with additional info in details
+3. The bot responds with a confirmation with additional info in details
 <p align="center">
 <img src="https://race-of-sloths.com/images/bot2.svg" alt="bot response image">
 </p>
@@ -20,12 +20,7 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 <img src="https://race-of-sloths.com/images/bot3.svg" alt="maintainer score image">
 </p>
 
-5. Bot responds with a confirmation with additional info in details
-<p align="center">
-<img src="https://race-of-sloths.com/images/bot4.svg" alt="bot response to score image">
-</p>
-
-6. After 24 hours from the merge, the bot finalizes the score and updates the <a href="https://race-of-sloths.com/leaderboard">leaderboard</a>
+5. After 24 hours from the merge, the bot finalizes the score and updates the <a href="https://race-of-sloths.com/leaderboard">leaderboard</a>
 <p align="center">
 <img src="https://race-of-sloths.com/images/bot5.svg" alt="bot finalization image">
 </p>
@@ -36,5 +31,6 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 - [Website](https://race-of-sloths.com)
 - [Leaderboard](https://race-of-sloths.com/leaderboard)
 - [Supported projects](https://race-of-sloths.com/projects)
+- [Source code](https://github.com/NEAR-DevHub/race-of-sloths)
 
 #### Your [feedback](https://github.com/NEAR-DevHub/race-of-sloths/issues/new/choose) is important for us.
