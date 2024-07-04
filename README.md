@@ -31,6 +31,7 @@ I'm a Sloths Bot and I want to share some details about the [Race Of Sloths](htt
 - [Website](https://race-of-sloths.com)
 - [Leaderboard](https://race-of-sloths.com/leaderboard)
 - [Supported projects](https://race-of-sloths.com/projects)
-- [Source code](https://github.com/NEAR-DevHub/race-of-sloths)
+- [Back-end source code](https://github.com/NEAR-DevHub/race-of-sloths)
+- [Front-end source code](https://github.com/NEAR-DevHub/race-of-sloths-website)
 
 #### Your [feedback](https://github.com/NEAR-DevHub/race-of-sloths/issues/new/choose) is important for us.
